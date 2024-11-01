@@ -1,5 +1,3 @@
-
-import CheckboxPrompt from "inquirer/lib/prompts/checkbox";
 import HondaBrv from "../hondaBRV/page";
 import Hondacivic from "../hondaCivic/page";
 import LandCruiser from "../landcruiser/page";
